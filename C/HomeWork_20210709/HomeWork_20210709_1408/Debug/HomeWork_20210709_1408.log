@@ -1,0 +1,18 @@
+﻿  HomeWork_20210709_1408.c
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(27,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(27,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(27,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(27,11): message : this argument is used as a buffer size
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(5,7): warning C4101: 'c1': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(6,12): warning C4101: 'c22': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(5,15): warning C4101: 'c3': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(7,22): warning C4101: 'c43': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(7,12): warning C4101: 'c23': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(6,22): warning C4101: 'c42': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(6,7): warning C4101: 'c12': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(5,11): warning C4101: 'c2': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(7,7): warning C4101: 'c13': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(7,17): warning C4101: 'c33': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(6,17): warning C4101: 'c32': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1408\HomeWork_20210709_1408.c(5,19): warning C4101: 'c4': unreferenced local variable
+  HomeWork_20210709_1408.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210709\Debug\HomeWork_20210709_1408.exe

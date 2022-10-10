@@ -1,0 +1,4 @@
+﻿  HomeWork_20210628_3_2.c
+C:\Users\jinse\source\repos\HomeWork_20210628_3_2\HomeWork_20210628_3_2\HomeWork_20210628_3_2.c(5,10): warning C4101: 'n': unreferenced local variable
+  LINK : C:\Users\jinse\source\repos\HomeWork_20210628_1\Debug\HomeWork_20210628_3_2.exe not found or not built by the last incremental link; performing full link
+  HomeWork_20210628_3_2.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210628_1\Debug\HomeWork_20210628_3_2.exe

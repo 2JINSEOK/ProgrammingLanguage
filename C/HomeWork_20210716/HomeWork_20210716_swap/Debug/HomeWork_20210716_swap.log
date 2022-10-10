@@ -1,0 +1,4 @@
+﻿  HomeWork_20210716_swap.c
+C:\Users\jinse\source\repos\HomeWork_20210716\HomeWork_20210716_swap\HomeWork_20210716_swap.c(6,6): warning C4101: 'res1': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210716\HomeWork_20210716_swap\HomeWork_20210716_swap.c(6,11): warning C4101: 'res2': unreferenced local variable
+  HomeWork_20210716_swap.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210716\Debug\HomeWork_20210716_swap.exe

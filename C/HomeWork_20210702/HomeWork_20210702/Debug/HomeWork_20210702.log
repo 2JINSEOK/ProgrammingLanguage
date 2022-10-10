@@ -1,0 +1,5 @@
+﻿  HomeWork_20210702_8958.c
+C:\Users\jinse\source\repos\HomeWork_20210702\HomeWork_20210702\HomeWork_20210702_8958.c(8,7): warning C4101: 'tmp': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210702\HomeWork_20210702\HomeWork_20210702_8958.c(7,7): warning C4101: 'res': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210702\HomeWork_20210702\HomeWork_20210702_8958.c(5,8): warning C4101: 'i': unreferenced local variable
+  HomeWork_20210702.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210702\Debug\HomeWork_20210702_8958.exe

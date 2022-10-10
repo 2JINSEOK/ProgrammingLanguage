@@ -1,0 +1,4 @@
+﻿  HomeWork_20210716_3053.c
+C:\Users\jinse\source\repos\HomeWork_20210719\HomeWork_20210716_3053\HomeWork_20210716_3053.c(9,44): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jinse\source\repos\HomeWork_20210719\HomeWork_20210716_3053\HomeWork_20210716_3053.c(9,44): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  HomeWork_20210716_3053.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210719\Debug\HomeWork_20210716_3053.exe

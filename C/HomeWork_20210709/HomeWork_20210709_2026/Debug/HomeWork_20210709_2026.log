@@ -1,0 +1,11 @@
+﻿  HomeWork_20210709_2026.c
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(9,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(9,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(9,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(9,11): message : this argument is used as a buffer size
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(4,7): warning C4101: 'c1': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(4,15): warning C4101: 'c3': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(4,11): warning C4101: 'c2': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(4,26): warning C4101: 'alc': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_2026\HomeWork_20210709_2026.c(4,19): warning C4101: 'c4': unreferenced local variable
+  HomeWork_20210709_2026.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210709\Debug\HomeWork_20210709_2026.exe

@@ -1,0 +1,5 @@
+﻿  HomeWork_20210709_1171.c
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1171\HomeWork_20210709_1171.c(28,22): warning C4101: 'nnum': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1171\HomeWork_20210709_1171.c(28,13): warning C4101: 'nklasse': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210709_1171\HomeWork_20210709_1171.c(28,6): warning C4101: 'nyear': unreferenced local variable
+  HomeWork_20210709_1171.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210709\Debug\HomeWork_20210709_1171.exe

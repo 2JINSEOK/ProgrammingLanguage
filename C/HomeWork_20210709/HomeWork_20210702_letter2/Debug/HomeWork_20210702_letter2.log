@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HomeWork_20210702_letter2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HomeWork_20210709_letter2.c
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210702_letter2\HomeWork_20210709_letter2.c(12,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210702_letter2\HomeWork_20210709_letter2.c(12,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210702_letter2\HomeWork_20210709_letter2.c(12,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210702_letter2\HomeWork_20210709_letter2.c(12,11): message : this argument is used as a buffer size
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210702_letter2\HomeWork_20210709_letter2.c(8,11): warning C4101: 'tmp': unreferenced local variable
+C:\Users\jinse\source\repos\HomeWork_20210709\HomeWork_20210702_letter2\HomeWork_20210709_letter2.c(7,6): warning C4101: 'i': unreferenced local variable
+  HomeWork_20210702_letter2.vcxproj -> C:\Users\jinse\source\repos\HomeWork_20210709\Debug\HomeWork_20210709_letter2.exe
